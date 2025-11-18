@@ -12,9 +12,3 @@ It covers fundamental data structures and algorithms with simple, clean, and wel
 - Sparse Matrices (triplet form, addition, transpose, multiplication)
 - Sorting & Searching (merge sort, quick sort, linear/binary search)
 
-## 🚀 How to Run
-```bash
-git clone https://github.com/vanshnanda08/DS-Lab.git
-cd DS-Lab
-g++ Assignment-2/Q6.cpp -o program
-./program
